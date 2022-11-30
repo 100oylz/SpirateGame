@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>resources/background.jpg</file>
+        <file>resources/monkey.png</file>
+        <file>resources/introducation.jpg</file>
+        <file>resources/mainwindow.jpg</file>
+        <file>resources/option.jpg</file>
+    </qresource>
+</RCC>
